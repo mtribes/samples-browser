@@ -30,7 +30,7 @@ You can then view the web app at http://localhost:1234
 
 ### Structure
 
-With the exception of `angular`, each sample contains the following files.
+Each sample contains the following files.
 
 - `src/index_before.ts` - sample code before mtribes integration
 - `src/index_after.ts` - sample code after mtribes integration
