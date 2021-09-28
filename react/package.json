@@ -1,0 +1,30 @@
+{
+  "name": "sample-react",
+  "version": "1.0.0",
+  "private": true,
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "parcel index.html",
+    "build": "parcel build index.html",
+    "gen": "mtribes update -v"
+  },
+  "keywords": [],
+  "author": "eng@mtribes.com",
+  "license": "SEE LICENSE IN LICENSE",
+  "prettier": {
+    "singleQuote": true
+  },
+  "devDependencies": {
+    "@types/react": "^16.14.15",
+    "@types/react-dom": "^16.9.14",
+    "parcel-bundler": "^1.12.5",
+    "typescript": "^4.4.3"
+  },
+  "dependencies": {
+    "@mtribes/client-browser": "^1.0.0-beta.27",
+    "@mtribes/client-react": "^1.0.0-beta.27",
+    "react": "^16.14.0",
+    "react-dom": "^16.14.0"
+  }
+}
