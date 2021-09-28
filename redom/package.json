@@ -1,0 +1,26 @@
+{
+  "name": "sample-redom",
+  "version": "1.0.0",
+  "private": true,
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "parcel index.html",
+    "build": "parcel build index.html",
+    "gen": "mtribes update -v"
+  },
+  "keywords": [],
+  "author": "eng@mtribes.com",
+  "license": "SEE LICENSE IN LICENSE",
+  "prettier": {
+    "singleQuote": true
+  },
+  "dependencies": {
+    "@mtribes/client-browser": "^1.0.0-beta.27",
+    "redom": "^3.27.1"
+  },
+  "devDependencies": {
+    "parcel-bundler": "^1.12.5",
+    "typescript": "^4.4.3"
+  }
+}

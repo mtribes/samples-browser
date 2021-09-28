@@ -1,0 +1,41 @@
+<svg
+  role="presentation"
+  xmlns="http://www.w3.org/2000/svg"
+  viewBox="0 0 400 400"
+>
+  <linearGradient
+    id="9bbc6a4ab6df978a263248d842836391a-InlineSvg-24"
+    gradientUnits="userSpaceOnUse"
+    x1="167.805"
+    y1="231.339"
+    x2="167.805"
+    y2="232.784"
+    gradientTransform="matrix(322.5 0 0 -397.5 -53878.496 92446.5)"
+  >
+    <stop offset="0" stop-color="#fff"></stop>
+    <stop offset="1" stop-color="#fff"></stop>
+  </linearGradient>
+  <path
+    class="logo-circle-a"
+    d="M77.5 357.5l69.7-70.2-22.6-22.8c-33.8-39.5-32.1-99 5.1-136.5 39-39.2 102.2-39.2 141.2 0s39 102.8 0 142l-17.6 17.8 35.3 35.5 17.6-17.8c58.5-58.8 58.5-154.2 0-213-22.6-22.8-50.7-36.7-80-41.9V0c42.2 5.5 82.9 24.6 115.3 57.1 78 78.4 78 205.6 0 284-72.1 72.6-185.7 78.1-264 16.4z"
+    fill="url(#9bbc6a4ab6df978a263248d842836391a-InlineSvg-24)"
+  ></path>
+  <linearGradient
+    id="9bbc6a4ab6df978a263248d842836391b-InlineSvg-24"
+    gradientUnits="userSpaceOnUse"
+    x1="167.794"
+    y1="231.763"
+    x2="166.759"
+    y2="232.743"
+    gradientTransform="matrix(175 0 0 -320 -29176 74464)"
+  >
+    <stop offset="0" stop-color="#fff"></stop>
+    <stop offset="1" stop-color="#fff"></stop>
+  </linearGradient>
+  <path
+    class="logo-circle-b"
+    d="M41.5 320c-60.4-78.2-54.8-191.2 16.8-263C91 24.2 132.3 5.2 175 0v50.4c-29.9 4.8-58.5 18.8-81.6 41.9-52.1 52.3-57.6 133.6-16.4 192L41.5 320z"
+    fill="url(#9bbc6a4ab6df978a263248d842836391b-InlineSvg-24)"
+    fill-opacity=".7"
+  ></path>
+</svg>
