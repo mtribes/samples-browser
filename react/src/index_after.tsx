@@ -51,8 +51,8 @@ function Header({ user, onLogin, onLogout }): any {
   if (!header.enabled) return null;
 
   // override the bg color if we have one defined
-  const bgColor = homepage.header.data.backgroundColor?.value;
-  const bgGrad = homepage.header.data.gradientColor?.value;
+  const bgColor = header.data.backgroundColor?.value;
+  const bgGrad = header.data.gradientColor?.value;
   return (
     <header
       className="header"
