@@ -30,11 +30,11 @@ You can then view the web app at http://localhost:1234
 
 ### Structure
 
-With the exception of `angular`, each sample contains the following files.
+Each sample contains the following files.
 
 - `src/index_before.ts` - sample code before mtribes integration
 - `src/index_after.ts` - sample code after mtribes integration
-- `src/mtspace/demo/*` - generated mtribes Space integration code
+- `src/mtspace/sample/*` - generated mtribes Space integration code
 - `index.html` - main entry point to app. Can be updated to point at
   `index_before.ts` or `index_after.ts`.
 
