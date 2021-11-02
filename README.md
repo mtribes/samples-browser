@@ -7,7 +7,7 @@ For background information see our [developer documentation](https://developers.
 
 ## Samples
 
-- [Angular](/angular) - a sample application demonstrating SDK integration with Angular.
+- [Angular](/angular) - a sample application demonstrating SDK integration with [Angular](https://angular.io).
 - [React](/react) - a [React](https://reactjs.org) example using the mtribes SDK along with hooks from the sister mtribes React library.
 - [Redom](/redom) - a bare-bones JavaScript example using the mtribes SDK with
   [RE:DOM](https://redom.js.org) for rendering.
